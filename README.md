@@ -41,14 +41,6 @@ Responda corretamente às perguntas de cada nível. A cada acerto, você avança
 
 ---
 
-## 🚀 Como Compilar e Executar
-
-No terminal, execute:
-
-```bash
-gcc jogo.c -o jogo
-./jogo
-
 📄 Formato dos Arquivos de Perguntas (nivel1.txt, nivel2.txt, ...)
 
 PERGUNTA: O que é um algoritmo?
@@ -60,3 +52,11 @@ CORRETA: 2
 
 CORRETA: deve indicar o índice (começando em 0) da resposta correta.
 Separe perguntas com uma linha em branco.
+## 🚀 Como Compilar e Executar
+
+No terminal, execute:
+
+```bash
+gcc jogo.c -o jogo
+./jogo 
+
