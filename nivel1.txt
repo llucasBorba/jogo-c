@@ -1,0 +1,20 @@
+PERGUNTA: O que é um algoritmo?
+ALTERNATIVA: Um tipo de dado
+ALTERNATIVA: Um software
+ALTERNATIVA: Um conjunto de passos para resolver um problema
+ALTERNATIVA: Um compilador
+CORRETA: 2
+
+PERGUNTA: Qual a estrutura de controle usada para repetição?
+ALTERNATIVA: if/else
+ALTERNATIVA: switch
+ALTERNATIVA: for/while/do-while
+ALTERNATIVA: typedef
+CORRETA: 2
+
+PERGUNTA: Que tipo de dado armazena valores verdadeiros ou falsos?
+ALTERNATIVA: Inteiro
+ALTERNATIVA: Booleano
+ALTERNATIVA: Caractere
+ALTERNATIVA: Float
+CORRETA: 1

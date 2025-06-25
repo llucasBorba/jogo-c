@@ -1,0 +1,20 @@
+PERGUNTA: Qual a complexidade do Merge Sort?
+ALTERNATIVA: O(n)
+ALTERNATIVA: O(n^2)
+ALTERNATIVA: O(n log n)
+ALTERNATIVA: O(log n)
+CORRETA: 2
+
+PERGUNTA: O que é um grafo acíclico direcionado?
+ALTERNATIVA: Um grafo sem arestas
+ALTERNATIVA: Um grafo com ciclos
+ALTERNATIVA: DAG
+ALTERNATIVA: Um vetor ordenado
+CORRETA: 2
+
+PERGUNTA: Qual algoritmo usa divisão e conquista?
+ALTERNATIVA: Bubble Sort
+ALTERNATIVA: QuickSort
+ALTERNATIVA: Insertion Sort
+ALTERNATIVA: Counting Sort
+CORRETA: 1

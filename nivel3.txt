@@ -1,0 +1,20 @@
+PERGUNTA: Qual a complexidade do algoritmo Bubble Sort no pior caso?
+ALTERNATIVA: O(n)
+ALTERNATIVA: O(n log n)
+ALTERNATIVA: O(n^2)
+ALTERNATIVA: O(log n)
+CORRETA: 2
+
+PERGUNTA: O que é um ponteiro em C?
+ALTERNATIVA: Uma função
+ALTERNATIVA: Um tipo de dado abstrato
+ALTERNATIVA: Uma variável que armazena endereço de memória
+ALTERNATIVA: Um operador lógico
+CORRETA: 2
+
+PERGUNTA: Qual a diferença entre malloc e calloc?
+ALTERNATIVA: malloc é mais rápido que calloc
+ALTERNATIVA: calloc aloca memória e a inicializa com zero
+ALTERNATIVA: malloc aloca mais memória que calloc
+ALTERNATIVA: Não há diferença
+CORRETA: 1

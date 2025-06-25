@@ -1,0 +1,20 @@
+PERGUNTA: Qual a estrutura de dados LIFO?
+ALTERNATIVA: Fila
+ALTERNATIVA: Lista ligada
+ALTERNATIVA: Árvore
+ALTERNATIVA: Pilha
+CORRETA: 3
+
+PERGUNTA: Como se chama o algoritmo de busca em árvore binária?
+ALTERNATIVA: Busca linear
+ALTERNATIVA: Busca binária
+ALTERNATIVA: Busca sequencial
+ALTERNATIVA: Busca em profundidade
+CORRETA: 1
+
+PERGUNTA: O que significa FIFO?
+ALTERNATIVA: Fast Input Fast Output
+ALTERNATIVA: First In First Out
+ALTERNATIVA: File In File Out
+ALTERNATIVA: Final In Final Out
+CORRETA: 1

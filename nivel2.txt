@@ -1,0 +1,20 @@
+PERGUNTA: Qual a diferença entre ++i e i++?
+ALTERNATIVA: Pré-incremento e pós-incremento
+ALTERNATIVA: Multiplicação e divisão
+ALTERNATIVA: Soma e subtração
+ALTERNATIVA: Nenhuma
+CORRETA: 0
+
+PERGUNTA: O que o comando 'break' faz em um switch?
+ALTERNATIVA: Reinicia o loop
+ALTERNATIVA: Sai do bloco switch
+ALTERNATIVA: Ignora a condição
+ALTERNATIVA: Continua para o próximo caso
+CORRETA: 1
+
+PERGUNTA: Como se chama uma função que chama a si mesma?
+ALTERNATIVA: Iterativa
+ALTERNATIVA: Lógica
+ALTERNATIVA: Recursiva
+ALTERNATIVA: Condicional
+CORRETA: 2
