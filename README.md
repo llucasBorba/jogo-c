@@ -43,7 +43,7 @@ Responda corretamente às perguntas de cada nível. A cada acerto, você avança
 
 📄 Formato dos Arquivos de Perguntas (nivel1.txt, nivel2.txt, ...)
 
-PERGUNTA: O que é um algoritmo?
+PERGUNTA: O que é um algoritmo? 
 ALTERNATIVA: Um tipo de dado
 ALTERNATIVA: Um software
 ALTERNATIVA: Um conjunto de passos para resolver um problema
